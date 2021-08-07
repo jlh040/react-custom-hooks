@@ -1,6 +1,6 @@
 # Functionality
 
-This app is exercise 39.10.7 from [Springboard](https://www.springboard.com). The primary goal of this exericse was to get some practice making [Custom Hooks](https://reactjs.org/docs/hooks-custom.html) in React. This app allows users to display two types of cards onto the screen. One type comes from a [Pokemon API](https://pokeapi.co/) and the other type of card comes from the [Deck of Cards API](https://deckofcardsapi.com). I was tasked with identifying parts of the code that exhibit duplication, and then refactoring that code using my own custom hooks.
+This app is exercise 39.10.7 from [Springboard](https://www.springboard.com)'s Software Engineering Bootcamp. The primary goal of this exericse was to get some practice making [Custom Hooks](https://reactjs.org/docs/hooks-custom.html) in React. This app allows users to display two types of cards onto the screen. One type comes from a [Pokemon API](https://pokeapi.co/) and the other type of card comes from the [Deck of Cards API](https://deckofcardsapi.com). I was tasked with identifying parts of the code that exhibit duplication, and then refactoring that code using my own custom hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
