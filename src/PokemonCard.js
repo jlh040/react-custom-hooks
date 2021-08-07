@@ -11,7 +11,7 @@ function PokemonCard({ front, back, name, stats }) {
     <div onClick={flipCard} className="PokemonCard Card">
       {isFacingUp ? (
         <div className="PokemonCard-front">
-          <img src={front} alt={`{name} front`} />
+          <img src={front} alt={`${name} front`} />
           <div>
             <p className="PokemonCard-name">{name}</p>
             <ul className="PokemonCard-stats">
@@ -25,7 +25,7 @@ function PokemonCard({ front, back, name, stats }) {
         </div>
       ) : (
         <div className="PokemonCard-back">
-          <img src={back} alt={`{name} back`} />
+          <img src={back} alt={`${name} back`} />
         </div>
       )}
     </div>
